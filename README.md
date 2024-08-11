@@ -2,7 +2,7 @@
 
 ## A simple youtube api wrapper for getting video details and transcripts.
 
-1. Introduction
+# 1. Introduction
 The YouTube Wrapper package is a Python library that simplifies interactions with the YouTube Data API and the YouTube Transcript API. It allows developers to easily retrieve video details and transcripts using simple function calls.
 
 2. Installation
